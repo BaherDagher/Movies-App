@@ -105,7 +105,7 @@ const Movie = ({ movie }) => {
                                 backgroundColor: isInWatchlist ? '#c0392b' : theme.palette.primary.main,
                                 textTransform: 'none',
                                 width: '100%',
-                                fontSize: 12,
+                                fontSize: 11,
                                 ":hover": {
                                     backgroundColor: isInWatchlist ? '#a93226' : theme.palette.primary.dark,
                                 }
